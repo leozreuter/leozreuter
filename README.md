@@ -7,4 +7,4 @@
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)][(https://www.linkedin.com/in/leonardoreuter/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/leonardoreuter/)
