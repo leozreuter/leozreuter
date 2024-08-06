@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔎 Estudante de Engenharia de Computação - UNISC<br>📌 Rio Grande do Sul - 🇧🇷<br>⚜️ Desde 2019 no Movimento Escoteiro<br>‎‎ 🔰‎‎  Aspirante a Oficial R/2</p>
+<p align="left">🔎 Estudante de Engenharia de Computação - UNISC<br>📌 Rio Grande do Sul - 🇧🇷<br>⚜️ Desde 2019 no Movimento Escoteiro<br>🔰 Aspirante a Oficial R/2</p>
 
 ###
 
