@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔎 Estudante de Engenharia de Computação - UNISC<br>📌 Rio Grande do Sul - 🇧🇷<br>⚜️ Desde 2019 no Movimento Escoteiro<br>🔰 Aspirante a Oficial R/2<br>☁️ AWS Solutions Architect | <a href=https://www.credly.com/badges/f0371a27-7845-41bd-aa59-0c635be5cd61/linked_in_profile>Associate</a> </p>
+<p align="left">🔎 Estudante de Engenharia de Computação - UNISC<br>📌 Rio Grande do Sul - 🇧🇷<br>⚜️ Desde 2019 no Movimento Escoteiro<br>🔰 Aspirante a Oficial R/2<br>☁️ AWS Solutions Architect | <a href="https://www.credly.com/badges/f0371a27-7845-41bd-aa59-0c635be5cd61/linked_in_profile" target="_blank">Associate</a> </p>
 
 ###
 
